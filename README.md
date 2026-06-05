@@ -76,7 +76,7 @@ SW# show processes cpu | include CDP
 ```
 ![Texto alternativo](https://github.com/DarkyGhost107/network-security-cdp-flood/blob/main/screenshots/proccess%20cpu.png)
 ![Texto alternativo](https://github.com/DarkyGhost107/network-security-cdp-flood/blob/main/screenshots/cdp%20neighbor.png)
-## 8. Contramedidas
+## 7. Contramedidas
 
 | Contramedida | Comando Cisco IOS | Descripcion |
 |---|---|---|
@@ -91,13 +91,13 @@ interface GigabitEthernet0/25
  cdp enable
 ```
 ![Texto alternativo](https://github.com/DarkyGhost107/network-security-cdp-flood/blob/main/screenshots/contramedida.png)
-## 9. Referencias
+## 8. Referencias
 
 - [CVE-2020-3120 - Cisco CDP DoS](https://nvd.nist.gov/vuln/detail/CVE-2020-3120)
 - [Scapy Documentation](https://scapy.readthedocs.io/)
 
 ---
-## 10.Enlaces:
+## 9.Enlaces:
 video: https://youtu.be/qo0xjj3oBUU
 
 *Laboratorio de Seguridad de Redes | GNS3 | Uso educativo exclusivo*
