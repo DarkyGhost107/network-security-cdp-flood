@@ -53,13 +53,7 @@ root (sudo)
 7. Repetir N veces
 
 ## 6. Topologia de Red (GNS3)
-~~~
-┌─────────────────┐         ┌──────────────────────┐
-│  ATACANTE       │         |   SWITCH CISCO       │
- │  Kali Linux     │--eth0-▶│   IOS L2 (CDP ON)    │
-│  192.168.1.50/24│         │   192.168.1.1/24     │
-└─────────────────┘         └──────────────────────┘
-~~~
+![Texto alternativo](https://github.com/DarkyGhost107/network-security-cdp-flood/blob/main/screenshots/topologia%20MITM%20ARP.png)
 ### Direccionamiento IP
 
 | Dispositivo | Interfaz | IP | Rol |
