@@ -30,7 +30,7 @@ sudo python3 cdp_flood.py
 sudo python3 cdp_flood.py -i eth1 -c 1000
 sudo python3 cdp_flood.py -i eth0 -c 2000 -d 0.01
 ```
-![Ejemplo](screenshots/ejemplo_de_uso.png)
+![Texto alternativo](https://github.com/DarkyGhost107/network-security-cdp-flood/blob/main/screenshots/ejemplo%20de%20uso.png)
 
 
 ## 4. Requisitos
